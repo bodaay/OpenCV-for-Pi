@@ -38,7 +38,7 @@ sudo pip install numpy
   ```
 7) Download and install the file from this repo called "latest-OpenCV.deb".
   ```
-wget "https://github.com/jabelone/OpenCV-for-Pi/raw/master/latest-OpenCV.deb"
+wget "https://github.com/bodaay/OpenCV-for-Pi/raw/master/latest-OpenCV.deb"
 sudo dpkg -i latest-OpenCV.deb
   ```
 8) Test it installed correctly by doing the following:
